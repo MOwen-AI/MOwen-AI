@@ -20,6 +20,8 @@ I turn messy model behavior into interaction patterns teams can document, test, 
 | Project | Description |
 |---|---|
 | [ARKOS Persona System](https://github.com/MOwen-AI/Portfolio) | Multi-layer behavioral OS for AI personas — mask logic, context engine, emotional inference, safety overrides |
+| [ARKOS Interactive](https://mowen-ai.github.io/Portfolio/arkos-interactive.html) | Live interactive documentation — explore the framework layer by layer |
+| [Character Forge](https://mowen-ai.github.io/Portfolio/character-forge.html) | Step-by-step character builder for Kindroid and SillyTavern — psychology-first design |
 | [Case Studies](https://github.com/MOwen-AI/Portfolio) | GPT-4o boundary failure, persona portability across models, local model instability |
 | [Writing & Analysis](https://github.com/MOwen-AI/Portfolio) | Articles on guardrails, jailbreak myths, and how users accidentally train their AI to underperform |
 
@@ -36,13 +38,17 @@ Reading behavioral signals, adapting communication in real time, holding boundar
 
 ## Currently Working On
 
-- ARKOS v2 documentation
-- Expanding case study library
-- Articles on AI behavior, safety UX, and human-AI interaction
+- GitHub profile setup & portfolio organization
+- LinkedIn profile
+- Substack article on the ARKOS framework
+- Permanent hosting for interactive tools
 
 ---
 
-## Contact
+## Find Me
 
 📧 MaryOwen.Office@gmail.com  
+✍️ [Chaos With Footnotes — Substack](https://chaoswithfootnotes.substack.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/mary-owen-ai)  
+📝 [Medium](https://medium.com/@chaoswithfootnotes)  
 🔗 [Portfolio](https://github.com/MOwen-AI/Portfolio)
